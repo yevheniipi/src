@@ -1,0 +1,16 @@
+{
+    "name": "Yevhenii",
+    "symbol": "YEV",
+    "description": "This is a My custom token created on Solana",
+    "image": "https://media.licdn.com/dms/image/v2/D4D03AQFlpWar6jLsWw/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1728570659370?e=1741219200&v=beta&t=4QIQe-gXEf-fRsObNYLQ61uH7p9GUuavMfGUfHmto0U",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Rare"
+      }
+    ]
+  }
