@@ -1,0 +1,16 @@
+{
+    "name": "KATRIN",
+    "symbol": "AGONYA",
+    "description": "This is a My token",
+    "image": "https://prnt.sc/6EG2yoEizR3m",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Rare"
+      }
+    ]
+  }
