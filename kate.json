@@ -2,7 +2,7 @@
     "name": "KATRIN",
     "symbol": "AGONYA",
     "description": "This is a My token",
-    "image": "https://prnt.sc/6EG2yoEizR3m",
+    "image": "https://raw.githubusercontent.com/yevheniipi/solana_learn/refs/heads/main/kateTop.png",
     "attributes": [
       {
         "trait_type": "Background",
